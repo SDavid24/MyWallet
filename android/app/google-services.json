@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936293592550",
+    "project_id": "mywalletapp-65c15",
+    "storage_bucket": "mywalletapp-65c15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936293592550:android:f31b860d70158f1e0dfa27",
+        "android_client_info": {
+          "package_name": "com.newagedavid.my_wallet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Nh4gJr2Mywy3A32Q_OPU4ENc0lAa6Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
